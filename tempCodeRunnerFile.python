@@ -1,0 +1,5 @@
+#print the message you have passed if mark >=50 otherwise print you have to reappear
+if mark>=40:
+    print("You have passed")
+else:
+    print("You have to reappear")
